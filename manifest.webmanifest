@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "Máy tính chia ô khung sắt",
+  "short_name": "Chia ô khung sắt",
+  "description": "Tính chia ô khung sắt linh hoạt, chọn kiểu hai đầu và ưu tiên số ô chẵn.",
+  "lang": "vi-VN",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f2f6fc",
+  "theme_color": "#0757b8",
+  "icons": [
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
